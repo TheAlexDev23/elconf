@@ -7,6 +7,8 @@ This program uses the following open source libraries: [cwalk](https://github.co
 
 This program and all the libraries it uses made by me are licensed under GPL3
 
+## How it works
+
 ## Building
 Building requires the following dependencies: cwalk, png, [libpel](https://github.com/thealexdev23/libpel)(install instructions in the repository)
 ```bash
@@ -18,5 +20,10 @@ make
 ```
 
 ## Running
-To run the program, provide the root directory of the project 
+To run the program, provide the root directory of the project and additionaly the file. If not provided will save under output.png. Assuming in build folder:
+```bash
+./elconf .. file.png
+```
+
+
  
