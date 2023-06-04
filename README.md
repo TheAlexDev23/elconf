@@ -1,5 +1,5 @@
 # elconf
-CLI program that creates a png file representing an element's electronic configuration. A school project.
+School project. CLI program that creates a png file representing an element's electronic configuration.
 
 This program uses the following libraries made by me: [libpttui](https://github.com/TheAlexDev23/libpttui), [libperiodic-c](https://github.com/TheAlexDev23/libperiodic-c) and [libpel](https://github.com/TheAlexDev23/libpel)
 
@@ -8,6 +8,11 @@ This program uses the following open source libraries: [cwalk](https://github.co
 This program and all the libraries it uses made by me are licensed under GPL3
 
 ## How it works
+<div>
+<img width="300px" height="300px" src="static/IMG_0581.png"/>
+<img width="300px" height="300px" src="static/IMG_0582.png"/>
+<img width="300px" height="300px" src="static/IMG_0583.png"/>
+</div>
 
 ## Building
 Building requires the following dependencies: cwalk, png, [libpel](https://github.com/thealexdev23/libpel)(install instructions in the repository)
