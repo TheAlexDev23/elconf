@@ -12,4 +12,4 @@ add_executable(
 
 add_subdirectory(lib/pttui)
 
-target_link_libraries(${PROJECT_NAME} pel png pttui cwalk)
+target_link_libraries(${PROJECT_NAME} pel png pttui cwalk m)
